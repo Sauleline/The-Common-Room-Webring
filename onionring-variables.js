@@ -8,7 +8,8 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://sauleline.neocities.org',
-'https://thefeatherlightnest.neocities.org/'
+'https://thefeatherlightnest.neocities.org/',
+'https://elysium-eternal.neocities.org/'
 ];
 
 //the name of the ring
