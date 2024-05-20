@@ -8,7 +8,7 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://sauleline.neocities.org',
-'https://gmail.com'
+'https://thefeatherlightnest.neocities.org/'
 ];
 
 //the name of the ring
